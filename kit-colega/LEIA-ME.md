@@ -6,7 +6,7 @@ Um escritório em pixel art onde cada conversa do Claude Code vira um personagem
 
 Abra o Claude Code numa pasta qualquer e cole:
 
-> Clone o repositório https://github.com/Sessim404/pixel-agents-sessim na pasta ~/Projetos/Pixel Agents (com o gh, já logado na minha conta do GitHub) e rode `bash kit-colega/instalar.sh` lá dentro. Se algum passo falhar, leia o erro, corrija e rode de novo. No fim, me diga se http://localhost:3100 abriu.
+> Clone o repositório https://github.com/Sessim404/pixel-agents-sessim na pasta ~/Projetos/Pixel Agents e rode `bash kit-colega/instalar.sh` lá dentro. Se algum passo falhar, leia o erro, corrija e rode de novo. No fim, me diga se http://localhost:3100 abriu.
 
 O instalador faz tudo sozinho:
 
