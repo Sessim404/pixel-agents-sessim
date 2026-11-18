@@ -1,0 +1,14 @@
+{
+  "id": "TECH_HANGING_PLANT",
+  "name": "Hanging Plant (vaso concreto)",
+  "category": "wall",
+  "type": "asset",
+  "canPlaceOnWalls": true,
+  "canPlaceOnSurfaces": true,
+  "backgroundTiles": 0,
+  "width": 16,
+  "height": 32,
+  "footprintW": 1,
+  "footprintH": 2,
+  "file": "TECH_HANGING_PLANT.png"
+}

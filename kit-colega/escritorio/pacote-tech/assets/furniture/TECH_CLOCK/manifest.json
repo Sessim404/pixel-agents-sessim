@@ -1,0 +1,14 @@
+{
+  "type": "asset",
+  "id": "TECH_CLOCK",
+  "file": "TECH_CLOCK.png",
+  "width": 16,
+  "height": 32,
+  "footprintW": 1,
+  "footprintH": 2,
+  "name": "Relógio Digital",
+  "category": "wall",
+  "canPlaceOnWalls": true,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0
+}

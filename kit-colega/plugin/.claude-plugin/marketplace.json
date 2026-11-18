@@ -1,0 +1,14 @@
+{
+  "name": "sessim-kit",
+  "owner": { "name": "Sessim" },
+  "metadata": { "description": "Plugin do quadro de progresso do Pixel Agents (versão Sessim do savvy-progress, com a ferramenta finalidade)." },
+  "plugins": [
+    {
+      "name": "savvy-progress",
+      "source": "./plugins/savvy-progress",
+      "description": "Quadro de progresso dos agentes + ferramenta finalidade (base: johnnyvizz/claude-kit, licença MIT).",
+      "version": "1.2.1",
+      "category": "mod"
+    }
+  ]
+}

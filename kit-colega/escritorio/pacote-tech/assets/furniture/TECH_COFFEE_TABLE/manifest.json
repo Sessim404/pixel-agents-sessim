@@ -1,0 +1,14 @@
+{
+  "id": "TECH_COFFEE_TABLE",
+  "name": "Mesa de Centro Grafite",
+  "category": "desks",
+  "type": "asset",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0,
+  "width": 32,
+  "height": 32,
+  "footprintW": 2,
+  "footprintH": 2,
+  "file": "TECH_COFFEE_TABLE.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "TECH_DOUBLE_BOOKSHELF",
+  "name": "Estante Dupla Grafite",
+  "category": "wall",
+  "type": "asset",
+  "canPlaceOnWalls": true,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0,
+  "width": 32,
+  "height": 32,
+  "footprintW": 2,
+  "footprintH": 2,
+  "file": "TECH_DOUBLE_BOOKSHELF.png"
+}

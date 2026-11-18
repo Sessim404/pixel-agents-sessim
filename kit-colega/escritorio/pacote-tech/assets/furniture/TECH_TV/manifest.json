@@ -1,0 +1,14 @@
+{
+  "type": "asset",
+  "id": "TECH_TV",
+  "file": "TECH_TV.png",
+  "width": 32,
+  "height": 32,
+  "footprintW": 2,
+  "footprintH": 2,
+  "name": "TV Painel",
+  "category": "wall",
+  "canPlaceOnWalls": true,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0
+}

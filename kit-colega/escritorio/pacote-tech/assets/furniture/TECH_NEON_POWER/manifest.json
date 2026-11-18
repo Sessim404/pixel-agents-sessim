@@ -1,0 +1,14 @@
+{
+  "type": "asset",
+  "id": "TECH_NEON_POWER",
+  "file": "TECH_NEON_POWER.png",
+  "width": 16,
+  "height": 32,
+  "footprintW": 1,
+  "footprintH": 2,
+  "name": "Neon Power",
+  "category": "wall",
+  "canPlaceOnWalls": true,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0
+}

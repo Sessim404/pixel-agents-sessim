@@ -1,0 +1,14 @@
+{
+  "type": "asset",
+  "id": "TECH_NEON_RAIO",
+  "file": "TECH_NEON_RAIO.png",
+  "width": 16,
+  "height": 32,
+  "footprintW": 1,
+  "footprintH": 2,
+  "name": "Neon Raio",
+  "category": "wall",
+  "canPlaceOnWalls": true,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0
+}

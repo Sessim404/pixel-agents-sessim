@@ -1,0 +1,14 @@
+{
+  "type": "asset",
+  "id": "TECH_NEON_CODE",
+  "file": "TECH_NEON_CODE.png",
+  "width": 32,
+  "height": 32,
+  "footprintW": 2,
+  "footprintH": 2,
+  "name": "Neon </>",
+  "category": "wall",
+  "canPlaceOnWalls": true,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0
+}

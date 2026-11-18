@@ -1,0 +1,14 @@
+{
+  "id": "TECH_LARGE_PLANT",
+  "name": "Large Plant (vaso concreto)",
+  "category": "decor",
+  "type": "asset",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 2,
+  "width": 32,
+  "height": 48,
+  "footprintW": 2,
+  "footprintH": 3,
+  "file": "TECH_LARGE_PLANT.png"
+}
